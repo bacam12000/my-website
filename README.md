@@ -2,6 +2,4 @@
 
 This is a really awesome website 
 
-now updating on readme demo branch
-
-Updated locally and pushed to GitHub
+Updating Readme for changes prior to rebase
